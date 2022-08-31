@@ -1,0 +1,33 @@
+.price {
+  color: #c29928;
+}
+
+.btn-outline-primary {
+  border-color: #c29928;
+  color: #c29928;
+}
+
+.btn-secondary {
+  background: #c29928;
+  border: 1px solid #c29928;
+}
+.btn-secondary:hover {
+  background: transparent;
+  border: 1px solid #c29928;
+  color: #c29928;
+}
+
+.btn-outline-primary:hover {
+  background: #c29928;
+  color: #fff;
+  border: 1px solid #c29928;
+}
+
+.middle {
+  border-style: solid;
+  border: 1px solid #c29928;
+}
+
+.card-header {
+  color: #c29928;
+}/*# sourceMappingURL=style.css.map */

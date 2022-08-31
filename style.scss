@@ -1,0 +1,38 @@
+$primary-text: #c29928;
+
+.price{
+    color: $primary-text;
+}
+
+ .btn-outline-primary{
+    border-color: $primary-text;
+    color: $primary-text;
+}
+
+.btn-secondary{
+    background: $primary-text;
+    border: 1px solid $primary-text;
+
+    &:hover{
+        background: transparent;
+        border: 1px solid $primary-text;
+        color: $primary-text;
+    }
+}
+
+
+
+.btn-outline-primary:hover{
+    background: $primary-text;
+    color: #fff;
+    border: 1px solid #c29928;
+}
+
+.middle{
+    border-style: solid;
+    border: 1px solid $primary-text;
+}
+
+.card-header{
+    color: $primary-text;
+}
